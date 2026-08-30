@@ -1,5 +1,4 @@
 # AIOps Assignment 1
-# AIops Assignment 1: MLflow & Technical Debt
 **Course:** DA3408 | **Student:** Sidhartha Durgam (Roll: DA24B003)
 
 ---
