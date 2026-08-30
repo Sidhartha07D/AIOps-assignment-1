@@ -1,0 +1,4 @@
+[core]
+    remote = navadeep04
+['remote "navadeep04"']
+    url = ../10.253.165.132
